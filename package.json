@@ -10,5 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "electron-spawn": "^5.0.0"
   }
 }
